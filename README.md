@@ -19,3 +19,7 @@ And then execute:
 ## Usage
 
 Edit the config/scheduler.yml file to define a list of plugins whose responses you wish to trigger, and when. Follow the format from the example
+
+## Links
+
+* [isis-plugin-scheduler on RubyGems](https://rubygems.org/gems/isis-plugin-scheduler)
